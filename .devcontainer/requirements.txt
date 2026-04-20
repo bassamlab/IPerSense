@@ -1,0 +1,5 @@
+sphinx>=9
+sphinx-rtd-theme
+sphinx-copybutton
+sphinxawesome-theme
+sphinx-autopackagesummary

@@ -1,0 +1,89 @@
+.. _itsc_2026:
+
+IPerSense at IEEE ITSC 2026
+===========================
+
+Status
+------
+
+.. admonition:: 2026-04-20 — Workshop accepted
+   :class: tip
+
+   We are happy to announce that the **IPerSense** workshop proposal for
+   **IEEE ITSC 2026** has been accepted. This page will be updated as the
+   organiser team finalises speakers, programme, and participation details.
+
+Overview
+--------
+
+- Type: Workshop
+- Format: Half-day
+- Location: IEEE ITSC 2026, Naples, Italy
+- Date: September 2026 (exact date TBD)
+- Organisers: Simon Schäfer, Bassam Alrifaee, Ignacio Alvarez, Ehsan Hashemi
+
+**IPerSense** focuses on infrastructure-based perception systems for connected
+and automated mobility.
+
+Future automated and connected vehicles increasingly rely on
+**infrastructure-based perception** to overcome line-of-sight limitations of
+onboard sensors, enhance redundancy in distributed sensor networks, and enable
+reliable, uncertainty-aware state estimation at safety-critical locations.
+By offloading part of the perception task to the infrastructure, road
+operators can detect occluded road users, support cooperative manoeuvres, and
+provide trusted situational awareness to vehicles and traffic management
+centres.
+
+Infrastructure-based perception systems use roadside units equipped with
+cameras, lidar, radar, and in-road load-sensing technologies. In-road sensors
+capture tire contact patches and dynamic wheel loads within the pavement,
+complementing overhead bounding-box sensing with axle configurations and
+traffic-induced forces. These measurements support safety applications and the
+development of digital twins of road infrastructure.
+
+Validation of these systems spans three levels: simulation, small-scale
+experimentation, and full-scale deployment. Simulation enables rapid
+prototyping, while small-scale testbeds provide an intermediate step between
+virtual studies and costly field trials.
+
+Detailed information about the organiser team for this workshop instance is listed on :doc:`../about`.
+
+Topics of interest
+------------------
+
+Based on the accepted proposal, the workshop focuses on the following themes:
+
+- Infrastructure-based perception for automated and connected vehicles
+- Roadside sensing with cameras, lidar, radar, and related sensor suites
+- In-road load-sensing technologies and traffic-induced force measurements
+- Redundancy, uncertainty-aware state estimation, and safety-critical operation
+- Cooperative support for occluded road users and connected manoeuvres
+- Digital twins of road infrastructure and validation workflows
+- Simulation, small-scale experimentation, and full-scale deployment
+
+Speakers
+--------
+
+Speaker information will be announced soon.
+
+Programme (tentative)
+---------------------
+
+The detailed programme will be added once the final agenda is available.
+
+- Opening
+- Invited talks
+- Panel discussion
+- Contributed presentations / posters (if applicable)
+- Closing
+
+Conference details
+------------------
+
+This workshop is held at **IEEE ITSC 2026**.
+Participation requires registration for **IEEE ITSC 2026** at least for the
+workshop day and is included in a full conference registration.
+
+See the official conference website for registration, venue, and local
+information:
+`IEEE ITSC 2026 <https://ieee-itsc.org/2026/>`_.
