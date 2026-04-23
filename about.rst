@@ -1,13 +1,12 @@
+:notoc: true
+
 .. _about:
 
-About
-======
+The Organisers
+===============
 
 The **IPerSense Workshop Series** is organised by an international committee of researchers 
 working on **infrastructure-based and integrated perception systems** for intelligent mobility.
-
-Organisers
-----------
 
 .. figure:: images/people/schaefer.jpg
 	:width: 250px
@@ -65,9 +64,6 @@ IEEE.
 
 Learn more about `Bassam Alrifaee <https://www.unibw.de/home-en/appointment-of-professors/prof-bassam-alrifaee>`_.
 
-Ignacio Alvarez
-+++++++++++++++
-
 .. figure:: images/people/alvarez.jpg
 	:width: 250px
 	:alt: Ignacio Alvarez
@@ -96,9 +92,6 @@ holds Senior Member status at IEEE and is a board member of professional
 societies in intelligent transportation and HCI.
 
 Learn more about `Ignacio Alvarez <https://ignacioalvmar.com>`_.
-
-Ehsan Hashemi
-+++++++++++++
 
 .. figure:: images/people/hashemi.jpg
 	:width: 250px

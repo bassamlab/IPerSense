@@ -1,3 +1,5 @@
+:notoc: true
+
 .. _itsc_2026:
 
 IPerSense at IEEE ITSC 2026

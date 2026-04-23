@@ -1,3 +1,5 @@
+:notoc: true
+
 .. _index:
 
 IPerSense Workshop Series
@@ -15,23 +17,6 @@ infrastructure-based and integrated perception systems for intelligent mobility.
 The current edition, :doc:`workshops/itsc_2026`, focuses on roadside sensing,
 in-road sensing, distributed sensor fusion, uncertainty-aware estimation, and
 digital twins for traffic infrastructure.
-
-Why IPerSense
--------------
-
-**IPerSense** stands for **Infrastructure Perception and Sensing**. The name
-reflects the workshop's focus on how infrastructure can extend the sensing
-horizon of connected and automated vehicles.
-
-The workshop connects research on roadside sensor systems, in-road sensing,
-cooperative perception, and validation across simulation, small-scale
-testbeds, and real deployments.
-
-It is designed as a focused venue for researchers working on sensing
-technologies, deployment questions, and scalable system integration in
-intelligent transportation.
-
-Learn more about the organisers and the motivation behind the workshop on the :doc:`about` page.
 
 News
 ----
@@ -54,6 +39,23 @@ News
    :class: note
 
    The **IPerSense Workshop Series** has been launched.
+
+Why IPerSense
+-------------
+
+**IPerSense** stands for **Infrastructure Perception and Sensing**. The name
+reflects the workshop's focus on how infrastructure can extend the sensing
+horizon of connected and automated vehicles.
+
+The workshop connects research on roadside sensor systems, in-road sensing,
+cooperative perception, and validation across simulation, small-scale
+testbeds, and real deployments.
+
+It is designed as a focused venue for researchers working on sensing
+technologies, deployment questions, and scalable system integration in
+intelligent transportation.
+
+Learn more about the organisers and the motivation behind the workshop on the :doc:`about` page.
 
 .. toctree::
    :maxdepth: 2

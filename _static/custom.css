@@ -1,0 +1,20 @@
+/* Hide "On this page" right sidebar */
+#right-sidebar {
+  display: none !important;
+}
+
+/* Disable the wide-screen 2-column layout when right sidebar is hidden */
+@media (min-width: 1280px) {
+  main {
+    display: block !important;
+    grid-template-columns: none !important;
+    gap: 0 !important;
+  }
+}
+
+/* Widen reading width on large screens */
+@media (min-width: 1024px) {
+  .max-w-prose {
+    max-width: 80ch !important;
+  }
+}

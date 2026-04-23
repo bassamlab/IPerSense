@@ -26,14 +26,27 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'venv', 'public']
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_title = 'IPerSense Workshop Series'
+html_title = 'IPerSense'
 
 # html_theme = 'sphinx_rtd_theme' 
 html_theme = 'sphinxawesome_theme'
 
 html_permalinks = False
 
+html_static_path = ['_static']
+html_css_files = ['custom.css']
+
 html_theme_options = {
     "show_breadcrumbs": True,
     "awesome_external_links": True,       
+    "main_nav_links": {
+        "ITSC 2026 Workshop": "/workshops/itsc_2026",
+        "The Organizers": "/about",
+   },
+   "show_prev_next": False,
+   "show_scrolltop": False,
+}
+
+html_sidebars = {
+  "**": ["sidebar_main_nav_links.html"]
 }
