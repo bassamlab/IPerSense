@@ -16,13 +16,15 @@ Status
 Overview
 --------
 
-- Type: Workshop
 - Format: Half-day
-- Location: IEEE ITSC 2026, Naples, Italy
-- Date: September 2026 (exact date TBD)
-- Organisers: Simon Schäfer, Bassam Alrifaee, Ignacio Alvarez, Ehsan Hashemi
+- Location: `IEEE ITSC 2026, Naples, Italy <https://ieee-itsc.org/2026/>`_
+- Date: September 15, 2026
+- Time: TBA
 
-**IPerSense** focuses on infrastructure-based perception systems for connected
+Abstract
+--------
+
+The iteration of **IPerSense** focuses on infrastructure-based perception systems for connected
 and automated mobility.
 
 Future automated and connected vehicles increasingly rely on
@@ -71,14 +73,40 @@ Programme (tentative)
 
 The detailed programme will be added once the final agenda is available.
 
-- Opening
-- Invited talks
-- Panel discussion
-- Contributed presentations / posters (if applicable)
-- Closing
+.. list-table:: 
+   :widths: 25 50 25
+   :header-rows: 0
 
-Conference details
-------------------
+   *  - Time
+      - Event Type
+      - Remarks
+   *  - 8:30 am - 8:40 am
+      - Arrival and Registration
+      - 10 min registration and welcome
+   *  - 8:40 am - 8:45 am
+      - Opening Remarks by organizers
+      - 5 min introduction
+   *  - 8:45 am - 9:05 am
+      - Presenter I - Title I
+      - 15 min talk + 5 min Q/A
+   *  - 9:05 am - 9:25 am
+      - Presenter II - Title II
+      - 15 min talk + 5 min Q/A
+   *  - 9:25 am - 9:45 am
+      - Presenter III - Title III
+      - 15 min talk + 5 min Q/A
+   *  - 9:45 am - 10:05 am
+      - Presenter IV - Title IV
+      - 15 min talk + 5 min Q/A
+   *  - 10:05 am - 10:45 am
+      - All Speakers - Panel Discussion
+      - 40 min moderated by organizers
+   *  - 10:45 am - 11:00 am
+      - Conclusion and Closing Remarks by organizers
+      - 15 min farewell
+
+Attendance and registration
+-----------------------------
 
 This workshop is held at **IEEE ITSC 2026**.
 Participation requires registration for **IEEE ITSC 2026** at least for the

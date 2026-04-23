@@ -3,7 +3,7 @@
 IPerSense Workshop Series
 =========================
 
-.. figure:: images/cover_flat.svg
+.. figure:: images/cover.png
    :alt: Illustration of infrastructure-based perception with roadside sensors, connected vehicles, and a digital traffic twin
    :width: 100%
 
@@ -31,11 +31,7 @@ It is designed as a focused venue for researchers working on sensing
 technologies, deployment questions, and scalable system integration in
 intelligent transportation.
 
-Explore
--------
-
-- Current workshop details: :doc:`workshops/itsc_2026`
-- Organiser team: :doc:`about`
+Learn more about the organisers and the motivation behind the workshop on the :doc:`about` page.
 
 News
 ----
