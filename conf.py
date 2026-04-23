@@ -45,6 +45,8 @@ html_theme_options = {
    },
    "show_prev_next": False,
    "show_scrolltop": False,
+   "logo_light": "images/logo-01.svg",
+   "logo_dark": "images/logo-02.svg",
 }
 
 html_sidebars = {
