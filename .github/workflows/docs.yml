@@ -57,7 +57,7 @@ jobs:
 
       - name: Set DOCS_BASEURL
         run: |
-          BASE_URL="https://bassamlab.github.io/IPerSys"
+          BASE_URL="https://bassamlab.github.io/IPerSense"
 
           echo "DOCS_BASEURL=$BASE_URL" >> "$GITHUB_ENV"
           echo "Using DOCS_BASEURL=$BASE_URL"

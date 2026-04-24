@@ -35,7 +35,7 @@ html_permalinks = False
 
 # Set via environment in CI/CD to generate absolute social/canonical links.
 # Example: DOCS_BASEURL=https://example.org
-html_baseurl = os.environ.get('DOCS_BASEURL', 'https://bassamlab.github.io/IPerSys/')
+html_baseurl = os.environ.get('DOCS_BASEURL', 'https://bassamlab.github.io/IPerSense/')
 
 html_static_path = ['_static']
 html_css_files = ['custom.css']
