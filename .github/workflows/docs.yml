@@ -31,7 +31,7 @@ jobs:
         run: |
           sphinx-build -b linkcheck . _build/linkcheck -W --keep-going \
             -D suppress_warnings=misc.copy_overwrite \
-            -D linkcheck_ignore='https://www\.embedded\.rwth-aachen\.de/.*'
+            -D linkcheck_ignore='https://www\.embedded\.rwth-aachen\.de/.*' \
             -D linkcheck_ignore='https://www\.unibw\.de/.*'
 
   build:
