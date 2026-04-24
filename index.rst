@@ -68,3 +68,9 @@ Learn more about the organizers and the motivation behind the workshop on the :d
 
    workshops/workshops
    about
+
+----
+
+.. |date| date::
+
+Website last updated on |date|.
