@@ -45,12 +45,16 @@ html_context = {
   'social_image': 'images/cover.png',
 }
 
+_baseurl = html_baseurl.rstrip('/') if html_baseurl else ''
+_nav_itsc = f"{_baseurl}/workshops/itsc_2026.html" if _baseurl else "/workshops/itsc_2026.html"
+_nav_about = f"{_baseurl}/about.html" if _baseurl else "/about.html"
+
 html_theme_options = {
     "show_breadcrumbs": True,
     "awesome_external_links": True,       
     "main_nav_links": {
-        "ITSC 2026 Workshop": "/workshops/itsc_2026",
-        "The Organizers": "/about",
+        "ITSC 2026 Workshop": _nav_itsc,
+        "The Organizers": _nav_about,
    },
    "show_prev_next": False,
    "show_scrolltop": False,
