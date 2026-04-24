@@ -87,3 +87,15 @@ a.reference.external[target="_blank"]::after {
   line-height: 1;
   vertical-align: baseline;
 }
+
+@media (max-width: 767px) {
+  #left-sidebar > a img {
+    width: 28px !important;
+    height: 28px !important;
+  }
+
+  #left-sidebar > a span {
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+}
