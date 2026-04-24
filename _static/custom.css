@@ -77,3 +77,13 @@
     width: min(220px, 100%);
   }
 }
+
+/* Keep external links visibly marked even in incremental builds. */
+a.reference.external[target="_blank"]::after {
+  content: "\2197";
+  display: inline-block;
+  margin-left: 0.2em;
+  font-size: 0.9em;
+  line-height: 1;
+  vertical-align: baseline;
+}

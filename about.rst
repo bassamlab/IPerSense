@@ -3,14 +3,14 @@
 .. _about:
 
 .. meta::
-	:description: Meet the organising committee of the IPerSense Workshop Series, including researchers in infrastructure-based perception and intelligent mobility.
+	:description: Meet the organizing committee of the IPerSense Workshop Series, including researchers in infrastructure-based perception and intelligent mobility.
 	:keywords: IPerSense organizers, workshop committee, infrastructure-based perception, intelligent mobility, IEEE ITS
 	:author: IPerSense Workshop Series
 
-The Organisers
+The Organizers
 ===============
 
-The **IPerSense Workshop Series** is organised by an international committee of researchers 
+The **IPerSense Workshop Series** is organized by an international committee of researchers 
 working on **infrastructure-based and integrated perception systems** for intelligent mobility.
 
 .. container:: organizer-profile

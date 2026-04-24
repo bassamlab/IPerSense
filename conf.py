@@ -4,7 +4,31 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 import os
 import sys
+from docutils import nodes
+from sphinx.transforms.post_transforms import SphinxPostTransform
+
 sys.path.insert(0, os.path.abspath('.'))
+
+
+class ExternalLinksNewTabTransform(SphinxPostTransform):
+  """Set external links to open in a new tab for HTML output."""
+
+  default_priority = 700
+  formats = ("html",)
+
+  def run(self, **kwargs):
+    for node in self.document.findall(nodes.reference):
+      refuri = node.get("refuri")
+      if not refuri:
+        continue
+
+      if node.get("internal"):
+        continue
+
+      if refuri.startswith(("#", "mailto:", "tel:")):
+        continue
+
+      node["target"] = "_blank"
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
@@ -65,3 +89,7 @@ html_theme_options = {
 html_sidebars = {
   "**": ["sidebar_main_nav_links.html"]
 }
+
+
+def setup(app):
+    app.add_post_transform(ExternalLinksNewTabTransform)

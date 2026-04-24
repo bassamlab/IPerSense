@@ -30,15 +30,15 @@ News
    :class: tip
 
    The **IPerSense** workshop proposal for **IEEE ITSC 2026** has been
-   accepted. This page will be updated as the organiser team finalises speakers,
-   programme, and participation details.
+   accepted. This page will be updated as the organizer team finalizes speakers,
+   program, and participation details.
 
-.. admonition:: 2026-02-15 — Workshop organiser team finalised
+.. admonition:: 2026-02-15 — Workshop organizer team finalized
    :class: note
 
-   The organiser team for the **IPerSense** workshop on **Infrastructure-based
-   Perception Systems** has been finalised. Detailed information about the
-   organisers is listed on :doc:`about`.
+   The organizer team for the **IPerSense** workshop on **Infrastructure-based
+   Perception Systems** has been finalized. Detailed information about the
+   organizers is listed on :doc:`about`.
    
 .. admonition:: 2026-01-10 — Workshop series launched
    :class: note
@@ -60,7 +60,7 @@ It is designed as a focused venue for researchers working on sensing
 technologies, deployment questions, and scalable system integration in
 intelligent transportation.
 
-Learn more about the organisers and the motivation behind the workshop on the :doc:`about` page.
+Learn more about the organizers and the motivation behind the workshop on the :doc:`about` page.
 
 .. toctree::
    :maxdepth: 2

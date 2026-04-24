@@ -18,7 +18,7 @@ Status
 
    We are happy to announce that the **IPerSense** workshop proposal for
    **IEEE ITSC 2026** has been accepted. This page will be updated as the
-   organiser team finalises speakers, programme, and participation details.
+   organizer team finalizes speakers, program, and participation details.
 
 Overview
 --------
@@ -40,9 +40,9 @@ Future automated and connected vehicles increasingly rely on
 onboard sensors, enhance redundancy in distributed sensor networks, and enable
 reliable, uncertainty-aware state estimation at safety-critical locations.
 By offloading part of the perception task to the infrastructure, road
-operators can detect occluded road users, support cooperative manoeuvres, and
+operators can detect occluded road users, support cooperative maneuvers, and
 provide trusted situational awareness to vehicles and traffic management
-centres.
+centers.
 
 Infrastructure-based perception systems use roadside units equipped with
 cameras, lidar, radar, and in-road load-sensing technologies. In-road sensors
@@ -56,18 +56,18 @@ experimentation, and full-scale deployment. Simulation enables rapid
 prototyping, while small-scale testbeds provide an intermediate step between
 virtual studies and costly field trials.
 
-Detailed information about the organiser team for this workshop instance is listed on :doc:`../about`.
+Detailed information about the organizer team for this workshop instance is listed on :doc:`../about`.
 
 Topics of interest
 ------------------
 
-Based on the accepted proposal, the workshop focuses on the following themes:
+The workshop focuses on the following themes:
 
 - Infrastructure-based perception for automated and connected vehicles
 - Roadside sensing with cameras, lidar, radar, and related sensor suites
 - In-road load-sensing technologies and traffic-induced force measurements
 - Redundancy, uncertainty-aware state estimation, and safety-critical operation
-- Cooperative support for occluded road users and connected manoeuvres
+- Cooperative support for occluded road users and connected maneuvers
 - Digital twins of road infrastructure and validation workflows
 - Simulation, small-scale experimentation, and full-scale deployment
 
@@ -76,10 +76,10 @@ Speakers
 
 Speaker information will be announced soon.
 
-Programme (tentative)
+Program (tentative)
 ---------------------
 
-The detailed programme will be added once the final agenda is available.
+The detailed program will be added once the final agenda is available.
 
 .. list-table:: 
    :widths: 25 50 25
