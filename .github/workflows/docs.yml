@@ -32,6 +32,7 @@ jobs:
           sphinx-build -b linkcheck . _build/linkcheck -W --keep-going \
             -D suppress_warnings=misc.copy_overwrite \
             -D linkcheck_ignore='https://www\.embedded\.rwth-aachen\.de/.*'
+            -D linkcheck_ignore='https://www\.unibw\.de/.*'
 
   build:
     name: Build site artifact
@@ -50,20 +51,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r .devcontainer/requirements.txt
-
-      - name: Set DOCS_BASEURL
-        run: |
-          REPO_NAME="${GITHUB_REPOSITORY#*/}"
-          OWNER="${GITHUB_REPOSITORY_OWNER}"
-
-          if [ "$REPO_NAME" = "$OWNER.github.io" ]; then
-            BASE_URL="https://$OWNER.github.io"
-          else
-            BASE_URL="https://$OWNER.github.io/$REPO_NAME"
-          fi
-
-          echo "DOCS_BASEURL=$BASE_URL" >> "$GITHUB_ENV"
-          echo "Using DOCS_BASEURL=$BASE_URL"
 
       - name: Build HTML
         run: make html
