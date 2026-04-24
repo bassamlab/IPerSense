@@ -2,6 +2,11 @@
 
 .. _workshops:
 
+.. meta::
+   :description: Overview page for the IPerSense Workshop Series editions and current workshop information.
+   :keywords: IPerSense workshops, IEEE workshop, infrastructure perception events, connected mobility research
+   :author: IPerSense Workshop Series
+
 Workshops
 ==========
 

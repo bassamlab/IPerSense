@@ -2,6 +2,25 @@
 
 {{ super() }}
 
+{%- block extrahead %}
+{{ super() }}
+{%- set page_desc = 'IPerSense Workshop Series on infrastructure-based and integrated perception for intelligent mobility.' %}
+{%- set image_path = 'images/cover.png' %}
+
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="{{ page_desc }}"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="{{ page_desc }}"/>
+
+{%- if html_baseurl %}
+  <meta property="og:url" content="{{ html_baseurl.rstrip('/') }}/{{ pagename }}.html"/>
+  {%- if image_path %}
+  <meta property="og:image" content="{{ html_baseurl.rstrip('/') }}/{{ image_path.lstrip('/') }}"/>
+  <meta name="twitter:image" content="{{ html_baseurl.rstrip('/') }}/{{ image_path.lstrip('/') }}"/>
+  {%- endif %}
+{%- endif %}
+{%- endblock extrahead %}
+
 {%- block main %}
 {%- if meta is defined and meta is not none and 'notoc' in meta %}
   <main class="relative py-6">
@@ -11,4 +30,3 @@
 {%- block body %}{%- endblock %}
 </main>
 {%- endblock main %}
-Copy code

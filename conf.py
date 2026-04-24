@@ -33,8 +33,17 @@ html_theme = 'sphinxawesome_theme'
 
 html_permalinks = False
 
+# Set via environment in CI/CD to generate absolute social/canonical links.
+# Example: DOCS_BASEURL=https://example.org
+html_baseurl = os.environ.get('DOCS_BASEURL', '')
+
 html_static_path = ['_static']
 html_css_files = ['custom.css']
+
+html_context = {
+  'social_description': 'IPerSense Workshop Series on infrastructure-based and integrated perception for intelligent mobility.',
+  'social_image': 'images/cover.png',
+}
 
 html_theme_options = {
     "show_breadcrumbs": True,

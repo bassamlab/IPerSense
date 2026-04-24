@@ -2,6 +2,11 @@
 
 .. _index:
 
+.. meta::
+   :description: IPerSense Workshop Series hosts focused academic workshops on infrastructure-based and integrated perception for intelligent mobility.
+   :keywords: IPerSense, workshop series, intelligent transportation systems, infrastructure perception, connected mobility
+   :author: IPerSense Workshop Series
+
 IPerSense Workshop Series
 =========================
 
