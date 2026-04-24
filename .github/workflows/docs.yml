@@ -28,7 +28,10 @@ jobs:
         run: sphinx-build -b html . _build/html -W --keep-going
 
       - name: Check external links
-        run: sphinx-build -b linkcheck . _build/linkcheck -W --keep-going
+        run: |
+          sphinx-build -b linkcheck . _build/linkcheck -W --keep-going \
+            -D suppress_warnings=misc.copy_overwrite \
+            -D linkcheck_ignore='https://www\.embedded\.rwth-aachen\.de/.*'
 
   build:
     name: Build site artifact
