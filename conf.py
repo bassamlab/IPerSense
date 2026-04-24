@@ -35,7 +35,7 @@ html_permalinks = False
 
 # Set via environment in CI/CD to generate absolute social/canonical links.
 # Example: DOCS_BASEURL=https://example.org
-html_baseurl = os.environ.get('DOCS_BASEURL', '')
+html_baseurl = os.environ.get('DOCS_BASEURL', 'https://bassamlab.github.io/IPerSys/')
 
 html_static_path = ['_static']
 html_css_files = ['custom.css']
@@ -45,9 +45,9 @@ html_context = {
   'social_image': 'images/cover.png',
 }
 
-_baseurl = html_baseurl.rstrip('/') if html_baseurl else ''
-_nav_itsc = f"{_baseurl}/workshops/itsc_2026.html" if _baseurl else "/workshops/itsc_2026.html"
-_nav_about = f"{_baseurl}/about.html" if _baseurl else "/about.html"
+_baseurl = html_baseurl.rstrip('/')
+_nav_itsc = f"{_baseurl}/workshops/itsc_2026.html"
+_nav_about = f"{_baseurl}/about.html"
 
 html_theme_options = {
     "show_breadcrumbs": True,
