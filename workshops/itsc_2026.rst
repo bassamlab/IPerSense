@@ -74,7 +74,41 @@ The workshop focuses on the following themes:
 Speakers
 --------
 
-Speaker information will be announced soon.
+**Speaker information will be announced soon.**
+
+Below you will find a list of approved speakers from our collaborator network. The final speaker list for this edition will be updated once the program is finalized.
+
+.. list-table:: 
+   :widths: 20 30 50
+   :header-rows: 0
+
+   *  - Speaker
+      - Affiliation
+      - Title
+   *  - Ehsan Hashemi
+      - University of Alberta, Canada
+      - Smart Infrastructure with Multimodal Perception for Safe Mobility in Adverse Weather: A Field Deployment in Canada
+   *  - Simon Schäfer
+      - RWTH Aachen University, Germany
+      - Filling the Gap: From Sim to Small to Full Scale Testing for Roadside Sensing Systems
+   *  - Archak Mittal
+      - IIT Bombay, India
+      - Design and Implementation of Roadside Sensing Systems in a Small-Scale Testbed for Cooperative V2X Evaluation
+   *  - Walter Zimmer
+      - University of California, Los Angeles, USA
+      - Roadside Infrastructure Intelligence: Generating Live Digital Traffic Twins to Support Autonomous Driving
+   *  - Robert Gee
+      - AUMOVIO, USA
+      - Deployment Timing vs. Methodology: What you don't know can hurt you
+   *  - Markus Geisler
+      - CARISSMA at Technische Hochschule Ingolstadt, Germany
+      - Infrastructure-Based Perception Systems for Safety Applications in Urban Traffic
+   *  - Kuo-Yi Chao
+      - Technical University of Munich, Germany
+      - Smart Infrastructure for Source-Agnostic Cooperative Perception
+   *  - Novel Certag
+      - Johannes Kepler University Linz, Austria
+      - ADAS Reliability and Road Condition Estimation Using Vehicle-Mounted Sensors
 
 Program (tentative)
 ---------------------
