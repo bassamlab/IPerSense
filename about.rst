@@ -24,15 +24,10 @@ working on **infrastructure-based and integrated perception systems** for intell
 
 			Copyright © RWTH Aachen University
 
-	**Simon Schäfer** earned his B.Sc. and M.Sc. degrees in Computational Engineering
-	Science from RWTH Aachen University, Germany. He is currently a Research
-	Associate at the Chair for Embedded Software at RWTH Aachen University, where
-	he conducts research within the Collaborative Research Center Transregio 339
-	(DFG), which develops a digital twin of the road infrastructure. His work
-	focuses on infrastructure-based localization of traffic participants and
-	multi-sensor fusion for connected and automated vehicles. He is expected to
-	complete his Ph.D. in the field of infrastructure-based localization in
-	mid-2026.
+	Dr. **Simon Schäfer** earned his B.Sc. and M.Sc. degrees in Computational Engineering Science from RWTH Aachen University, Germany, where he also completed his Ph.D. in 2026 in the field of infrastructure-based localization.
+	He is currently a Postdoctoral Researcher at the Professorship for Adaptive Behavior of Autonomous Vehicles at the University of the Bundeswehr Munich, Germany.
+	His research focuses on infrastructure-based perception and localization of traffic participants, multi-sensor fusion, and digital twins for connected and automated vehicles.
+	He is a member of the Cyber-Physical Mobility group and contributes to research on the digitalization of road infrastructure.
 
 	Since 2024, he has served as Project Leader of the Cyber-Physical Mobility
 	(CPM) Lab, a small-scale connected and automated vehicle (CAV) testbed for
