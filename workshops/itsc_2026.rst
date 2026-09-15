@@ -13,6 +13,12 @@ IPerSense at IEEE ITSC 2026
 Status
 ------
 
+.. admonition:: 2026-09-15 — Time table update
+   :class: note
+
+   We need to update the time table for the workshop. The presentation of **Walter Zimmer** will be rescheduled to 12:40 PM and the presentation of **Simon Schäfer** will take place earlier at 12:00 PM.
+
+
 .. admonition:: 2026-09-01 — Program finalized
    :class: tip
 
@@ -179,9 +185,7 @@ Below you find the list of the international list speakers for this workshop ins
 
 			Copyright © RWTH Aachen University
 
-   **Simon Schäfer** is a Research Associate at the Chair of Embedded Software (Informatik 11) at
-   RWTH Aachen University, Germany, and a member of the Cyber-Physical Mobility group. He received
-   his B.Sc. and M.Sc. in Computational Engineering Science from RWTH Aachen University.
+   **Simon Schäfer** is a Postdoctoral Researcher at the Professorship for Adaptive Behavior of Autonomous Vehicles at the University of the Bundeswehr Munich, Germany. He received his B.Sc. and M.Sc. in Computational Engineering Science from RWTH Aachen University, where he also completed his Ph.D. in 2026. His research focuses on infrastructure-based perception and localization for automated vehicles and intelligent transportation systems.
 
    His research focuses on infrastructure-based localization of traffic participants, sensor
    fusion, and the development of cyber-physical mobility systems. He works on bridging simulation,
@@ -284,9 +288,9 @@ Please find the detailed program for this workshop instance below.
         | **Deployment Timing vs. Methodology: What you don't know can hurt you**
       - 15 min talk + 5 min Q/A
    *  - 12:00 pm - 12:20 pm
-      - | Walter Zimmer
-        | *University of California, Los Angeles, USA*
-        | **Roadside Infrastructure Intelligence: Generating Live Digital Traffic Twins to Support Autonomous Driving**
+      - | Simon Schäfer
+        | *University of the Bundeswehr Munich, Germany*
+        | **Filling the Gap: From Sim to Small to Full Scale Testing for Roadside Sensing Systems**
       - 15 min talk + 5 min Q/A
    *  - 12:20 pm - 12:40 pm
       - | Markus Geisler
@@ -294,9 +298,9 @@ Please find the detailed program for this workshop instance below.
         | **Infrastructure-Based Perception Systems for Safety Applications in Urban Traffic**
       - 15 min talk + 5 min Q/A
    *  - 12:40 pm - 1:00 pm
-      - | Simon Schäfer
-        | *RWTH Aachen University, Germany*
-        | **Filling the Gap: From Sim to Small to Full Scale Testing for Roadside Sensing Systems**
+      - | Walter Zimmer
+        | *University of California, Los Angeles, USA*
+        | **Roadside Infrastructure Intelligence: Generating Live Digital Traffic Twins to Support Autonomous Driving**
       - 15 min talk + 5 min Q/A
    *  - 1:00 pm - 2:00 pm
       - **Lunch Break**
